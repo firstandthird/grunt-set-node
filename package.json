@@ -23,10 +23,10 @@
   },
   "dependencies": {
     "ft-jscs": "*",
-    "grunt-bytesize": "^0.1.1",
-    "grunt-contrib-jshint": "^0.7.2",
-    "grunt-contrib-watch": "^0.5.3",
-    "grunt-jscs": "^1.2.0",
+    "grunt-bytesize": "^0.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-jscs": "^3.0.1",
     "grunt-simple-mocha": "^0.4.0"
   }
 }
